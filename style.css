@@ -36,7 +36,6 @@ body {
 
 .main__input__new-task {
   width: 318px;
-  /* width: 56%; */
   display: inline-block;
   flex-grow: 1;
 }
