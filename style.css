@@ -50,7 +50,7 @@ body {
 }
 
 .main__list__item,
-.main__txt {
+.task__txt {
   list-style: none;
 }
 
@@ -74,7 +74,7 @@ button {
 }
 
 /* Heading */
-.main__txt {
+.task__txt {
   color: #333;
   font-weight: 700;
   font-size: 15px;
